@@ -2,6 +2,8 @@
 proyecto utilizando la libreria scikit learn, con el fin poder aplicar metologias de inteligencia artifical que permitan predecir datos.
 
 
+EL OBJETIVO DE ESTE PROYECTO ES LOGRAR PREDECIR EL NIVEL DE FELICIDAD EN BASE A CIERTOS PARAMETROS MENCIONADOS EN EL DATASET.
+
 INGRESO DE DATO AL MODELO PREDICTOR:
 
 ![image](https://user-images.githubusercontent.com/64045193/182500591-6eba6589-b972-466f-8405-b58d1592a6d6.png)
